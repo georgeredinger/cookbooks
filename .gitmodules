@@ -1,0 +1,3 @@
+[submodule "chef-rbenv"]
+	path = chef-rbenv
+	url = https://github.com/georgeredinger/chef-rbenv
